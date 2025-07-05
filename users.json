@@ -1,0 +1,14 @@
+[
+  {
+    "user_id": "1751697134003",
+    "name": "John Doe",
+    "email": "john.doe@example.com",
+    "password": "$2b$10$CSsiXR/fYqVDXAbcl59dBOD/XLG5m2AKCNJiDN/9k29IvhHpXOHTy"
+  },
+  {
+    "user_id": "1751698067512",
+    "name": "R.SANDEEP VISHWA",
+    "email": "vishwa.sandeep04@gmail.com",
+    "password": "$2b$10$XLNqI6nI02jZm4hjBMmxDu6ZcjTPjI8Iz8YRXqOUO1nqRtIGBcP7i"
+  }
+]
